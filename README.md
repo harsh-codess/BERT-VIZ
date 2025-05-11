@@ -1,4 +1,4 @@
-# BERT Attention Visualizations – BertViz Tutorial
+# BERT Attention Visualizations – BertViz TutorialS
 
 This repository contains interactive notebooks using **BertViz** to visualize attention patterns in Transformer models, primarily using **BERT**. It includes different views to understand how attention heads behave across layers and tokens.
 
